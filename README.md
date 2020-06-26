@@ -50,9 +50,16 @@
 
 ---
 ## 运行效果
-<img src="./1.png" height="50%" width="50%" />
-<img src="./2.jpg" height="50%" width="50%" />
-<img src="./3.jpg" height="50%" width="50%" />
+<center>
+  <img src="./1.png" height="30%" width="30%" />
+  首页推荐
+  
+  <img src="./2.jpg" height="30%" width="30%" />
+  音乐播放
+  
+  <img src="./3.jpg" height="30%" width="30%" />
+  用户评分
+</center>
 
 ---
 ## 常见问题
