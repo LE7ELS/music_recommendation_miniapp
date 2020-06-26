@@ -1,10 +1,8 @@
 <template>
 	<View>
 		<view class="about">
-			<view class="title">基于深度学习的音乐推荐系统</view>
+			<view class="title">基于深度学习的音乐推荐小程序</view>
 			<view class="desc">版本：v1.0</view>
-			<view class="desc">作者：王杰城</view>
-			<view class="desc">学号：1600300626</view>
 		</view>
 	</View>
 </template>
