@@ -3,6 +3,10 @@
 		<view class="about">
 			<view class="title">基于深度学习的音乐推荐小程序</view>
 			<view class="desc">版本：v1.0</view>
+			<view class="desc">本来想偷偷删掉个人信息</view>
+			<view class="desc">果然提交记录还是把这部分高亮显示出来了</view>
+			<view class="desc">好了，现在能注意到这个项目的都知道我叫啥了</view>
+			<view class="desc">👴😭🌶</view>
 		</view>
 	</View>
 </template>
