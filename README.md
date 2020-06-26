@@ -51,7 +51,7 @@
 ---
 ## 运行效果
 <center>
-  <img src="./1.png" height="30%" width="30%" /> <img src="./2.jpg" height="30%" width="30%" /> <img src="./3.jpg" height="30%" width="30%" />
+  <img src="./1.png" height="30%" width="30%" /><img src="./2.jpg" height="30%" width="30%" /><img src="./3.jpg" height="30%" width="30%" />
 </center>
 
 ---
